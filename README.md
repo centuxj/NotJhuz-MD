@@ -19,9 +19,6 @@ AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PART
 ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
 ```
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/IdkJhus/NotJhuz-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/IdkJhus/NotJhuz-MD/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -35,7 +32,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/IdkJhus/NotJhuz-MD
+> git clone https://github.com/centuxj/NotJhuz-MD/edit/main/README.md
 > cd NotJhuz-MD
 > yarn install 
 > npm install
