@@ -1,5 +1,5 @@
 {
-    "name": "NotJhuz-MD",
+    "name": "Centutu",
     "version": "1.0.0",
     "description": "Regalame tu sub en YouTube uwu",
     "main": "index.js",
@@ -16,14 +16,14 @@
     },
     "homepage": "https://github.com/IdkJhus",
     "author": {
-        "name": "NotJhuz"
+        "name": "Centu"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/IdkJhus/NotJhuz-MD.git"
+        "url": "git+https://github.com/centuxj/NotJhuz-MD/edit/main/package.json"
     },
     "bugs": {
-        "url": "https://github.com/IdkJhus/NotJhuz-MD/issues"
+        "url": "https://github.com/centuxj/NotJhuz-MD/edit/main/package.json"
     },
     "license": "MIT",
     "dependencies": {
