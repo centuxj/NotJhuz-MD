@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+ñimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -62,11 +62,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×'
-global.author = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
+global.packname = 'Centutu'
+global.author = 'Centutu'
 
-global.wm = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
-global.igfg = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
+global.wm = 'Centutu'
+global.igfg = 'Centutu'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
